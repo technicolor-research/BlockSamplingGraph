@@ -1,5 +1,5 @@
 # Structured sampling and fast reconstruction of smooth graph signals
-<img src="./pics/fig.png" width="300">
+<img src="./pics/fig.png" width="800">
 This code is provided to test the sampling procedure presented in:
 
 [1] G. Puy and P. Pérez, "Structured sampling and fast reconstruction of smooth graph signals", Information and Inference: A Journal of the IMA, 2018.
