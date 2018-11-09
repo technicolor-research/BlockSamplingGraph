@@ -75,7 +75,7 @@ The sampling distribution estimated_spec corresponds to the one presented in Sec
 
 Note that estimating the distribution estimated_spec is computationally expensive. By default, this estimation is done using parallel computing with nb_cpu=6 given as option of the function gt.estimate_group_cum_coh_spec in the main script. You can adapt this value depending on the configuration of your computer. To disable parallel computing, set nb_cpu=1.
 
-#### License 
+## License 
 by downloading this program, you commit to comply with the license as stated in the LICENSE.md file.
 
 
